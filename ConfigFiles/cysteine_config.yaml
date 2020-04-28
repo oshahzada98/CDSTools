@@ -1,0 +1,50 @@
+version 1:
+file_name_filters:
+  file_output_name_1: result_file_1.txt
+  file_output_name_2: result_file_2_AB.txt
+  file_output_name_3: result_file_3.txt
+
+epitope_positions:
+  - 369
+  - 370
+  - 372 
+  - 374 
+  - 376
+  - 377
+  - 378
+  - 380
+  - 382
+  - 384
+  - 385
+  - 386
+  - 389
+  - 390
+  - 390
+  - 392
+  - 428
+  - 429
+  - 430
+  - 515
+  - 517
+  - 519
+
+residue_positions:
+  - 668
+  - 1070
+  - 1020
+  - 1016
+  - 1009
+  - 961
+  - 570
+  - 571
+
+
+
+steps:
+  # - first_comparison 
+  # - second_comparison 
+  # - third_comparison 
+  # - write_to_file    
+  # - filter_results 
+  - distance_1 
+  # - distance_2 
